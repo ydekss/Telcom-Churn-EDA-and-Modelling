@@ -86,5 +86,5 @@ After fitting the  **Decision Tree Classifier**  model on our data and comparing
 
 To take a look at the models, feel free to look at the  `ipnyb`  file to explore more.
 
-![10,100 Thank You Videos and HD Footage - Getty Images](https://media.gettyimages.com/id/1308979937/video/thank-you-animated-retro-banner-video-overlay-in-black.jpg?s=640x640&k=20&c=GCGI-SRNWcljUkuavrPD3DUO29KsYycGp-b8qqaqGFQ=)
+![No Thank-You Note? No Job](https://shrm-res.cloudinary.com/image/upload/c_crop,h_1224,w_2178,x_269,y_0/w_auto:100,w_1200,q_35,f_auto/v1/Employee%20Relations/iStock-941674606_l3aqti.jpg)
 
